@@ -248,7 +248,7 @@ font-size: calc(2rem + 1vw);
  }
 
 .caption-text h1 span { 
-background: var(--black);
+background: var(--primary);
 padding: calc(0.5vw + 5px);
 }
 

@@ -1,12 +1,12 @@
 ---
 layout: layouts/home.njk
-title: James Taylor Bathurst Solicitor
+title: BeHealthy with Joan Goldsmith
 subtitle: Criminal and Family Law Lawyer
 class: home
 date: 2023-07-20
-description: James Taylor Bathurst Solicitor – Criminal and Family Law Lawyer offering specialist advice and or representation in Criminal and Family Law matters and services in all areas of law including Conveyancing, Wills Probate and Administration.
+description: BeHealthy assits you in developing a healthy body, to fight disease, rather than just treat the symptoms of disease.
 metadata:
-  title: Criminal and Family Law Lawyer Bathurst NSW
+  title: BeHealthy with Joan Goldsmith
 permalink: /
 eleventyNavigation:
   key: Home

@@ -1075,7 +1075,7 @@ background-color: var(--primary); font-weight: bold;}
 
   .hero {background-attachment: fixed;}
 
-  .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/james-taylor-solicitor-services_tl9s4s4BO.jpg?updatedAt=1691106375634);   background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+  .hero {height: 400px;background: url(img/behealthy-hero-1400x550.jpg);   background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
   .contact .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/james-taylor-solicitor-contact_bL-q3aMlL.jpg?updatedAt=1691109167674);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
@@ -1083,10 +1083,10 @@ background-color: var(--primary); font-weight: bold;}
 
   .property .hero {height: 400px;background: url(https://ik.imagekit.io/webtactics/jamestaylor/2000x400/property_t66cf8cG_.jpg?updatedAt=1691106375332);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
-.home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/bathurst-courthouse-1600x900_zTF6UdKZc.jpg?updatedAt=1691034432415); background-repeat: no-repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+.home .hero{height: 100svh;height: 100vh;background: url(img/behealthy-hero-1400x550.jpg); background-repeat: no-repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
 @media (min-width: 1600px) {
-  .home .hero{height: 100svh;height: 100vh;background: url(https://ik.imagekit.io/webtactics/jamestaylor/bathurst-courthouse-1600x900_zTF6UdKZc.jpg?updatedAt=1691034432415);background-size: cover;background-color: var(--black);background-attachment:fixed;}
+  .home .hero{height: 100svh;height: 100vh;background: url(https://behealthynetau.netlify.app/img/behealthy-hero-1400x550.jpg);background-size: cover;background-color: var(--black);background-attachment:fixed;}
 
 }
 

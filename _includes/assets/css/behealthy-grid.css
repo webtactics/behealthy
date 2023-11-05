@@ -329,7 +329,7 @@ width: 100%;
         float:right;
       }
       @media screen and (min-width: 1025px) {
-        .logo img {max-width:270px;aspect-ratio: 280 / 57;
+        .logo img {max-width:265px;aspect-ratio: 280 / 57;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
@@ -337,7 +337,7 @@ width: 100%;
       transition: all 1s;
       box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     }
-      .scrolled .logo img {max-width:220px;
+      .scrolled .logo img {max-width:216px;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
@@ -348,13 +348,13 @@ width: 100%;
 
 
 @media screen and (min-width: 1500px) {
-        .logo img {max-width:270px;
+        .logo img {max-width:265px;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
       -o-transition: all 1s;
       transition: all 1s;}
-      .scrolled .logo img {max-width:220px;
+      .scrolled .logo img {max-width:216px;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
@@ -369,7 +369,7 @@ width: 100%;
 display: none;
 }
 .logo {position:absolute;right:0;text-align: right;}
-.logo img {max-width:270px;aspect-ratio: 280 / 57;
+.logo img {max-width:216px;aspect-ratio: 280 / 57;
 max-height:auto;
 -webkit-transition: all 1s;
 -moz-transition: all 1s;

@@ -348,21 +348,7 @@ width: 100%;
       }
 
 
-@media screen and (min-width: 1500px) {
-        .logo img {max-width:265px;
-            -webkit-transition: all .6s;
-            -moz-transition: all .6s;
-            -ms-transition: all .6s;
-            -o-transition: all .6s;
-            transition: all .6s;}
-      .scrolled .logo img {max-width:216px;
-        -webkit-transition: all .6s;
-        -moz-transition: all .6s;
-        -ms-transition: all .6s;
-        -o-transition: all .6s;
-        transition: all .6s;}
-      
-      }
+
             
 
 @media screen and (max-width: 1025px) {

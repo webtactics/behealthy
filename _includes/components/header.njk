@@ -2,13 +2,17 @@
 <div class="hamburger"><div class="toggle-nav" aria-label="Toggle Navigation"><span class="hamburger-icon"></span>
 <span class="title-bar-title">Menu</span>
 </div></div>
-<div class="logo"><a href="/" title="Return to the homepage | Third Avenue Consulting" id="logo">
-<img src="https://ik.imagekit.io/webtactics/thirdavenue/thirdavenue-logo.png?updatedAt=1691726353436" alt="Third Avenue Consulting" title="Third Avenue Consulting" width="257px" height="30px">
+<div class="logo"><a href="/" title="Return to the homepage | BeHealthy with Joan Goldsmith" id="logo">
+<img src="img/behealthy_380x100.jpg" alt="BeHealthy with Joan Goldsmith" title="BeHealthy with Joan Goldsmith" width="380px" height="auto">
  </a></div>
 <div class="navwrapper">
-
+{% include "components/nav-top.njk" %}
 </div>
 <div class="socialwrapper">
-{% include "components/menu-social.njk" %}
+<ul class="menusocial">
+<li><a title="Call BeHealthy with Joan Goldsmith" alt="Call BeHealthy with Joan Goldsmith" href="tel:+61412614617">
+<img src="/img/phone.svg" alt="Call BeHealthy with Joan Goldsmith" title="Call BeHealthy with Joan Goldsmith"><span class="phonetext">0412 614 617</span></a>
+</li>
+</ul>
 </div>
 </header>

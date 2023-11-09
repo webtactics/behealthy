@@ -329,7 +329,7 @@ width: 100%;
         float:right;
       }
       @media screen and (min-width: 1025px) {
-        .logo img {max-width:260px;aspect-ratio: 408 / 139;
+        .logo img {max-width:260px;aspect-ratio: 38 / 10;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
@@ -348,13 +348,13 @@ width: 100%;
 
 
 @media screen and (min-width: 1500px) {
-        .logo img {max-width:320px;
+        .logo img {max-width:320px;max-height:84px;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;
       -o-transition: all 1s;
       transition: all 1s;}
-      .scrolled .logo img {max-width:280px;
+      .scrolled .logo img {max-width:320px;max-height:84px;
           -webkit-transition: all 1s;
       -moz-transition: all 1s;
       -ms-transition: all 1s;

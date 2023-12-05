@@ -1057,7 +1057,7 @@ background-color: var(--primary); font-weight: bold;}
 
   .hero {background-attachment: fixed;}
 
-  .hero {height: 400px;background: url(../img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+  .hero {height: 400px;background: url(../img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment: fixed;}
 
   .contact .hero {height: 400px;background: url(../img/behealthy-hero-1400x875.jpg);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 

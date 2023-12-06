@@ -1057,18 +1057,14 @@ background-color: var(--primary); font-weight: bold;}
 
   .hero {background-attachment: fixed;}
 
-  .hero {height: 400px;background: url(../img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment: fixed;}
+  .hero {height: 40vh;height: 40svh;background: url(../img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment: fixed;}
 
-  .contact .hero {height: 400px;background: url(../img/behealthy-hero-1400x875.jpg);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
- 
-
-  .property .hero {height: 400px;background: url(../img/behealthy-hero-1400x875.jpg);background-repeat: repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
 .home .hero{height: 100svh;height: 100vh;background: url(../img/behealthy-hero-1400x875.jpg); background-repeat: no-repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
 
 @media (min-width: 1600px) {
-  .home .hero{height: 100svh;height: 100vh;background: url(../img/behealthy-hero-1400x875.jpg);background-size: cover;background-color: var(--black);background-attachment:fixed;}
+  .home .hero{height: 100vh;height: 100svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size: cover;background-color: var(--black);background-attachment:fixed;}
 
 }
 
@@ -1082,9 +1078,7 @@ background-color: var(--primary); font-weight: bold;}
 
     .hero {height: 300px;background: url(../img/behealthy-hero-1400x875.jpg);background-position: right top;}
 
-    .contact .hero {height: 300px;background: url(../img/behealthy-hero-1400x875.jpg);}
-
-    .legal-services .hero {display:none;}
+ 
 
   }
 

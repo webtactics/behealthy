@@ -1074,7 +1074,7 @@ background-color: var(--primary); font-weight: bold;}
 
   }
   @media (max-width: 600px) {
-    .home .hero  {height: 40vh;height: 40svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size:auto;}
+    .home .hero  {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size:auto;}
 
     .hero {height: 30vh;height: 30svh;background: url(../img/behealthy-hero-1400x875.jpg);background-position: right top;}
 

@@ -1052,35 +1052,26 @@ background-color: var(--primary); font-weight: bold;}
   }
 
 
-  .sliderbox {background: var(--black);}
+  .sliderbox {background: var(--green);}
 
+.hero {background-attachment: fixed;background-color: var(--green);background-position: center top;background-repeat: no-repeat;}
 
-  .hero {background-attachment: fixed;}
-
-  .hero {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-position: center top;background-size: cover;background-color: var(--black);background-attachment: fixed;}
-
-
-
-.home .hero{height: 100vh;height: 100svh;background: url(../img/behealthy-hero-1400x875.jpg); background-repeat: no-repeat;background-position: center top;background-size: auto;background-color: var(--black);background-attachment: fixed;}
+.hero {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-size: cover;}
+.home .hero{height: 100vh;height: 100svh;background: url(../img/behealthy-hero-1400x875.jpg); background-size: auto;}
 
 @media (min-width: 1600px) {
-  .home .hero{height: 100vh;height: 100svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size: cover;background-color: var(--black);background-attachment:fixed;}
-
+.home .hero{height: 100vh;height: 100svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size: cover;}
 }
 
-  @media (max-width: 1280px) {
-    .home .hero  {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg); background-repeat: no-repeat;background-position: center top;background-size:auto;}
+@media (max-width: 1280px) {
+.home .hero  {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg); background-size:auto;}
+}
 
+@media (max-width: 600px) {
+.home .hero  {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size: cover;}
 
-  }
-  @media (max-width: 600px) {
-    .home .hero  {height: 60vh;height: 60svh;background: url(../img/behealthy-hero-1400x875.jpg);background-size:auto;}
-
-    .hero {height: 30vh;height: 30svh;background: url(../img/behealthy-hero-1400x875.jpg);background-position: right top;}
-
- 
-
-  }
+.hero {height: 30vh;height: 30svh;background: url(../img/behealthy-hero-1400x875.jpg);background-position: center top;}
+}
 
 
 

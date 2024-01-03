@@ -15,36 +15,30 @@ eleventyNavigation:
 
 
 
-## James Taylor has more than 30 years’ experience in criminal law, family law, property & conveyancing and traffic & driving offences. ## 
+## Joan Goldsmith has been a naturopath for more than 30 years and has a wealth of experience, yet she certainly doesn't rest on her laurels. ## 
 
-<figure class="imageright img400"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/james-taylor_qBI8lcRRc.jpg?updatedAt=1691026940168" alt="James Taylor Bathurst Solicitor" width="400px" height="400px">
+<figure class="imageright img400"><img title="James Taylor Bathurst Solicitor" src="joan-goldsmith.jpg" alt="James Taylor Bathurst Solicitor" width="207px" height="156px">
 <figcaption>James Taylor Bathurst Solicitor</figcaption>
 </figure>
 
-**During this time James Taylor has represented hundreds of clients in a very broad range of matters at the Children’s Court, Local Court, District Court and Supreme Court of New South Wales.**
-
-In criminal matters James Taylor has appeared in complex and lengthy trials including murder, sexual assault, commercial drug supply, serious fraud and armed robbery. 
-
-James has also appeared at New South Wales Parole Board Hearings, Police Integrity Commission Hearings, New South Wales Crime Commission Hearings and Coronial Inquests. 
-
-*“Being contacted by the police about a criminal offence, attending the police station, receiving court attendance notices for criminal and driving offences or any other involvement in legal matters can be a very concerning, stressful and worrying experience.
-From my past experience in representing clients, I understand client’s concerns and what is at stake and most importantly what needs to be done to provide clients with the best possible representation.”*
-
-*“I pride myself and take great satisfaction from making sure that my clients obtain the best possible results in all matters”*
 
 
-James Taylor regularly appears in Bail Applications including weekend Bail Applications. He also regularly appears in the Children’s Court and the Local and District Courts.
+Each year Joan attends extra classes, making sure that she is not only up-to-date with the latest research but so that she can offer her patients the best possible advice and skills.
 
-In Traffic matters James regularly appears for clients who have been issued with Infringement Notices by police or private Prosecutors and or clients who have been charged by the police for Traffic offences. James Taylor regularly appears for clients in Drink Driving and speeding matters and appeals against Roads and Maritime Services Licence Suspensions.
+Does your naturopath do this?
 
-<figure class="imageright img600"><img title="James Taylor Bathurst Solicitor" src="https://ik.imagekit.io/webtactics/jamestaylor/traffic-camera-600x360_1TIdmloy_.jpg?updatedAt=1691036542658" alt="James Taylor Bathurst Solicitor" width="600px" height="360px">
-<figcaption>Clear, precise legal advice</figcaption>
-</figure>
+Joan has attended classes for the past 20 years with Health World, because they lead the world in natural field research and keeping the practitioner informed.
 
-Often lecturing at the local Driver Awareness Program, James Taylor has a thorough understanding of the applicable traffic legislation. James Taylors experience in Traffic Law means that he is able to provide clients with clear, precise and thorough advice in all types of traffic matters including Drink Driving, Driving Under the Influence, Drug Driving, Police Radar, Speed Camera, Dangerous Driving, Dangerous Driving Causes Death or Grievous Bodily Harm, Street Racing, Drive Speed Dangerous, Suspended Drivers Licence, Disqualified Driving, Licence Appeals, Applications to quash Habitual Traffic Offences Declarations and much more.
+This quest to stay educated means that you can be confident in her ability to get results. Quickly.
 
-**James’ experience means that you will receive the best possible advice and or representation in all kinds of criminal law, family law, property & conveyancing and traffic and driving offences.**
+Joan is also an advocate of using the latest equipment to assist in any treatment.
 
-James Taylor knows how important it is for clients to have the best possible legal representation in all legal matters.
+This combination of knowledge and equipment means that Joan can now achieve results in a much shorter time frame than was previously possible.
+
+Over her career Joan has seen many changes in attitudes and health issues, however her overriding belief to build health via detoxing.
+
+This belief has only been re-enforced with so many people now suffering liver stress.
+
+Joan can now also improve immune system problems that have become a major problem for many people.
 
 

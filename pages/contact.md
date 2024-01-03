@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-title: Contact James Taylor Bathurst Solicitor
+title: Contact BeHealthy with Joan Goldsmith
 class: contact
 description: How to contact James Taylor Bathurst Solictor
 section: contact
@@ -19,14 +19,16 @@ eleventyNavigation:
 
 
 
+
+<h4>BeHealthy with Joan Goldsmith is an online only business. We do not have a physical location.</h4>
+<h4>Consultations are held via Zoom or Skype.</h4>
+
 <h2>Contact Details</h2>
-<p>Address: <a title="James Taylor Bathurst Solicitor Map" alt="James Taylor Bathurst Solicitor Map" href="https://goo.gl/maps/VH3KrRsjfEAdpWns9" target="_blank" rel="noopener">Suite A, 238 Howick St, Bathurst NSW 2795</a><br>
-Mobile: <a title="Call James Taylor Bathurst Solicitor" alt="Call James Taylor Bathurst Solicitor" href="tel:+61400316661">0400 316 661</a><br>
-Email: <a title="Email jtaylorsolicitor@gmail.com" alt="Email jtaylorsolicitor@gmail.com" href="mailto:jtaylorsolicitor@gmail.com">jtaylorsolicitor@gmail.com</a><br>
-Website: <a href="/" title="James Taylor Bathurst Solicitor Website" alt="James Taylor Bathurst Solicitor Website">jamestaylorsolicitor.com.au</a></p>
+
+<p>Mobile: <a title="Call BeHealthy with Joan Goldsmith" href="tel:+61412614617">+61 4 12 614 617</a><br>
+Email: <a title="Email joan@behealthy.net.au" alt="Email joan@behealthy.net.au" href="mailto:joan@behealthy.net.au">joan@behealthy.net.au</a><br>
+Website: <a href="/" title="BeHealthy with Joan Goldsmith Website" alt="BeHealthy with Joan Goldsmith Website">behealthy.net.au</a></p>
 
 
-<div class="responsive-embed widescreen">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1222.486707369501!2d149.57922032526344!3d-33.415435392773844!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b11e5cd42b057b5%3A0x8f81db03621d7cda!2sJames%20Taylor%20Solicitor!5e0!3m2!1sen!2sau!4v1690855582699!5m2!1sen!2sau" width="100%" height="400px" style="border:0;" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+
 

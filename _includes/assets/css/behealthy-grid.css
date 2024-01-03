@@ -1289,6 +1289,7 @@ aspect-ratio: 450 / 270;
 .img250 img {max-width: 250px;height:auto;aspect-ratio: 1 / 1;}
 
 .img400 img {max-width: 400px;height:auto;aspect-ratio: 1 / 1;}
+.imgjoan img {max-width: 207px;height:auto;aspect-ratio: 207 / 156;}
 
 .img600 img {max-width:600px;height:auto;aspect-ratio: 60 / 36;}
 

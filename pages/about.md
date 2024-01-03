@@ -17,8 +17,8 @@ eleventyNavigation:
 
 ## Joan Goldsmith has been a naturopath for more than 30 years and has a wealth of experience, yet she certainly doesn't rest on her laurels. ## 
 
-<figure class="imageright img400"><img title="James Taylor Bathurst Solicitor" src="joan-goldsmith.jpg" alt="James Taylor Bathurst Solicitor" width="207px" height="156px">
-<figcaption>James Taylor Bathurst Solicitor</figcaption>
+<figure class="imageright img400"><img title="{{ title }}" src="/joan-goldsmith.jpg" alt="{{ title }}" width="207px" height="156px">
+<figcaption>{{ title }}</figcaption>
 </figure>
 
 

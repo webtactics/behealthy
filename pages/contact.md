@@ -20,10 +20,10 @@ eleventyNavigation:
 
 
 
-<h4>BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location.</h4>
+<h2>BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location.</h2>
 <p>Consultations are held via Zoom or Skype.</p>
 
-<h2>Contact Details</h2>
+<h4>Contact Details</h4>
 
 <p>Mobile: <a title="Call BeHealthy with Joan Goldsmith" href="tel:+61412614617">+61 4 12 614 617</a><br>
 Email: <a title="Email joan@behealthy.net.au" alt="Email joan@behealthy.net.au" href="mailto:joan@behealthy.net.au">joan@behealthy.net.au</a><br>

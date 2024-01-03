@@ -20,8 +20,8 @@ eleventyNavigation:
 
 
 
-<h4>BeHealthy with Joan Goldsmith is an online only business. We do not have a physical location.</h4>
-<h4>Consultations are held via Zoom or Skype.</h4>
+<h4>BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location.</h4>
+<p>Consultations are held via Zoom or Skype.</p>
 
 <h2>Contact Details</h2>
 

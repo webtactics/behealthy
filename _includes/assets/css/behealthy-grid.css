@@ -944,8 +944,16 @@ margin:5px 0;
   border-bottom: none;
   transition: all 0.3s;
 }
+span.iconimg {
+  float: left;
+  padding: 0;
+  background-color: var(--white);
+  display: flex;justify-content: center;
+}
 
-span.phonetext {font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;
+
+
+span.phonetext {float: right;font-size:1rem;line-height: 34px;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;

@@ -869,8 +869,8 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.menusocial img {float:left; padding:0;background-color: var(--white);}
-.menusocial:hover img {float:left; padding:0;background-color: var(--white);}
+.menusocial img, .ctalink img {float:left; padding:0;background-color: var(--white);}
+.menusocial:hover img, .ctalink:hover img {float:left; padding:0;background-color: var(--white);}
 
 
 .menusocial > li {
@@ -910,7 +910,7 @@ margin:10px 0;
 
 
 
-.menusocial > li > a:hover {
+.menusocial > li > a:hover, .ctalink > li > a:hover {
   background-color: var(--white);
   border-bottom: none;
   transition: all 0.3s;

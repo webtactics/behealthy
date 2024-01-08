@@ -15,10 +15,12 @@ eleventyNavigation:
 
 
 
-## Joan Goldsmith has been a naturopath for more than 30 years and has a wealth of experience, yet she certainly doesn't rest on her laurels. ## 
+## Joan Goldsmith has more than 30 years experice as a a naturopath for more than 30 years and has a wealth of experience, yet she certainly doesn't rest on her laurels. ## 
+
+Joan Goldsmith has more than 30 years’ experience as a naturopath and is regarded as a leading practitioner 
 
 <figure class="imageright imgjoan"><img title="{{ title }}" src="/joan-goldsmith.jpg" alt="{{ title }}" width="207px" height="156px">
-<figcaption>{{ title }}</figcaption>
+<figcaption>Joan Goldsmith</figcaption>
 </figure>
 
 

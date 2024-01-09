@@ -976,7 +976,7 @@ margin: 0 10px;
   margin: 0;
   }
 
-.ctawrapper {background-color: transparent;margin: 0;width:100%;padding:0;margin:0;clear:both;}
+.ctawrapper {background-color: transparent;min-height:54px;padding:0;margin:0;}
 
 
 

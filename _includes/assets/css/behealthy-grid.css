@@ -966,7 +966,7 @@ span.phonetext {float: right;font-size:1rem;line-height: 34px;text-align:right;c
 
 .mobilesocialwrapper {background-color: var(--mattblack);margin: 1rem 0 0 0;min-height:64px;padding:5px 0;}
 
-.mobilesocialwrapper ul.menusocial li {
+.mobilesocialwrapper ul.menusocial li, .ctawrapper ul.menusocial li {
 float: left;
 margin: 0 10px;
 }

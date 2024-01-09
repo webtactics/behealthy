@@ -869,8 +869,8 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.menusocial img, .ctalink img {float:left; padding:0;background-color: var(--white);}
-.menusocial:hover img, .ctalink:hover img {float:left; padding:0;background-color: var(--white);}
+.menusocial img {float:left; padding:0;background-color: var(--white);}
+.menusocial:hover img {float:left; padding:0;background-color: var(--white);}
 
 
 .menusocial > li {
@@ -884,9 +884,9 @@ ul.footer-menu li {
     text-align: center;
 }
 
+.ctawrapper .menusocial > li {  width: 250px;}
 
-
-.menusocial > li > a, .ctalink > li > a  {
+.menusocial > li > a {
   padding: 0;
   line-height: 54px;
   font-size: 1rem;
@@ -910,7 +910,7 @@ margin:10px 0;
 
 
 
-.menusocial > li > a:hover, .ctalink > li > a:hover {
+.menusocial > li > a:hover{
   background-color: var(--white);
   border-bottom: none;
   transition: all 0.3s;
@@ -958,7 +958,7 @@ span.phonetext {float: right;font-size:1rem;line-height: 34px;text-align:right;c
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
   transition: all 0.6s;}
-.menusocial:hover .phonetext, .ctalink:hover .phonetext {font-size:1rem;line-height: 34px;font-weight:700;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
+.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;font-weight:700;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
@@ -966,22 +966,15 @@ span.phonetext {float: right;font-size:1rem;line-height: 34px;text-align:right;c
 
 .mobilesocialwrapper {background-color: var(--mattblack);margin: 1rem 0 0 0;min-height:64px;padding:5px 0;}
 
-.mobilesocialwrapper ul.menusocial li, .ctawrapper ul.menusocial li {
+.mobilesocialwrapper ul.menusocial li  {
 float: left;
 margin: 0 10px;
 }
 
 .ctawrapper {background-color: transparent;margin: 0;min-height:64px;padding:5px 0;}
-.cta.content p {margin:0.5rem 0;}
-
-.ctacallwrapper {margin:0;height:34px;padding:0;width:160px; }
-.ctacallwrapper:hover {margin:0;height:34px;padding:0; }
 
 
 
-
-
-.ctacallwrapper  .ctalink > li > a {line-height: 34px;margin: 0;}
 
 
 .mobilemenu {padding:0 0 1rem;}

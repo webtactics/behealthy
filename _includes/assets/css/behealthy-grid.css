@@ -916,7 +916,7 @@ margin:10px 0;
   transition: all 0.3s;
 }
 
-.ctawrapper .menusocial > li {  width: 250px;}
+.ctawrapper .menusocial > li {  width: 250px;font-weight: 700;}
 .ctawrapper .menusocial > li > a {
 background-color: var(--primary);
 margin:0;}

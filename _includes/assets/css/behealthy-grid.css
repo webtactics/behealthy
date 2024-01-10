@@ -884,7 +884,7 @@ ul.footer-menu li {
     text-align: center;
 }
 
-.ctawrapper .menusocial > li {  width: 250px;}
+
 
 .menusocial > li > a {
   padding: 0;
@@ -915,6 +915,11 @@ margin:10px 0;
   border-bottom: none;
   transition: all 0.3s;
 }
+
+.ctawrapper .menusocial > li {  width: 250px;}
+.ctawrapper .menusocial > li > a {
+  background-color: var(--primary);
+margin:0;}
 
 
 
@@ -953,7 +958,7 @@ span.iconimg {
 
 
 
-span.phonetext {float: right;font-size:1rem;line-height: 34px;font-weight:400;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;padding-right:0.5rem;
+.menusocial .phonetext {float: right;font-size:1rem;line-height: 34px;font-weight:400;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;padding-right:0.5rem;
   -moz-transition: all 0.6s;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
@@ -963,6 +968,10 @@ span.phonetext {float: right;font-size:1rem;line-height: 34px;font-weight:400;te
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
   transition: all 0.6s;}
+
+
+  .ctawrapper .menusocial .phonetext {text-align: left;color: var(--black);padding:5px;}
+    .ctawrapper .menusocial:hover .phonetext {text-align: left;color: var(--black);padding:5px;}
 
 .mobilesocialwrapper {background-color: var(--mattblack);margin: 1rem 0 0 0;min-height:64px;padding:5px 0;}
 

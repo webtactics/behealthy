@@ -919,7 +919,8 @@ margin:10px 0;
 .ctawrapper .menusocial > li > a {
 background-color: var(--black);
 margin:0;
-font-weight: 700;}
+font-weight: 700;
+display: block;}
 .ctawrapper .menusocial > li > a:hover{
   color: var(--white);
   background-color: var(--primary);

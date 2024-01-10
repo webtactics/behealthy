@@ -918,9 +918,13 @@ margin:10px 0;
 
 .ctawrapper .menusocial > li {  width: 250px;}
 .ctawrapper .menusocial > li > a {
-  background-color: var(--primary);
+background-color: var(--primary);
 margin:0;}
-
+.ctawrapper .menusocial > li > a:hover{
+  background-color: var(--white);
+  border-bottom: none;
+  transition: all 0.3s;
+}
 
 
 

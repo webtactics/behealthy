@@ -918,12 +918,12 @@ margin:10px 0;
 
 .ctawrapper .menusocial > li {  width: 250px;font-weight: 700;}
 .ctawrapper .menusocial > li > a {
-background-color: var(--primary);
+background-color: var(--black);
 margin:0;
 font-weight: 700;}
 .ctawrapper .menusocial > li > a:hover{
   color: var(--white);
-  background-color: var(--black);
+  background-color: var(--primary);
   border-bottom: none;
   transition: all 0.3s;
   font-weight: 700;

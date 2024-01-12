@@ -870,47 +870,6 @@ ul.footer-menu li {
 .ctaicons:hover img {float:left; padding:0;background-color: var(--white);}
 
 
-.menusocial > li {
-    display: inline-block;
-    padding: 0;
-    margin: 0;
-    border: none;
-    position: relative;
-    right: 0;
-    width: 150px;
-    text-align: center;
-}
-
-
-
-.menusocial > li > a {
-  padding: 0;
-  line-height: 54px;
-  font-size: 1rem;
-  width:auto;
-  height:34px;
-text-decoration: none;
-font-weight: 400;
-cursor: pointer;
-display: block;
-border-bottom: none;
-background-color: var(--black);
-margin:10px 0;
--webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;
-
-}
-
-
-
-.menusocial > li > a:hover{
-  background-color: var(--white);
-  border-bottom: none;
-  transition: all 0.3s;
-}
 
 
 
@@ -919,13 +878,14 @@ margin:10px 0;
 
 
 
-.ctawrapper .menusocial > li {  width: 250px;font-weight: 700;}
-.ctawrapper .menusocial > li > a {
+
+.ctawrapper .ctaicons > li {  width: 250px;font-weight: 700;}
+.ctawrapper .ctaicons > li > a {
 background-color: var(--black);
 margin:0;
 font-weight: 700;
 display: block;}
-.ctawrapper .menusocial > li > a:hover{
+.ctawrapper .ctaicons > li > a:hover{
   color: var(--white);
   background-color: var(--primary);
   border-bottom: none;
@@ -964,17 +924,8 @@ margin:5px 0;
 
 
 
-.ctaicons .phonetext {float: right;font-size:1rem;line-height: 34px;font-weight:400;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;padding-right:0.5rem;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;}
-.ctaicons:hover .phonetext {font-size:1rem;line-height: 34px;font-weight:400;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  -ms-transition: all 0.6s;
-  -o-transition: all 0.6s;
-  transition: all 0.6s;}
-  .ctawrapper .ctaicons .phonetext  {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
+
+  .ctawrapper .ctaicons .phonetext  {float: right;text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
     -webkit-transition: all 0.6s;
     -moz-transition: all 0.6s;
     -ms-transition: all 0.6s;

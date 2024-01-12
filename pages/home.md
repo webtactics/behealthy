@@ -13,10 +13,18 @@ eleventyNavigation:
   order: 0
 ---
 
-<h2>BeHealthy with Joan Goldsmith assits you in developing a healthy body to fight disease, rather than just treat the symptoms of disease.</h2>
-<p>Joan Goldsmith has more than 30 years’ experience as a naturopath and is very highly regarded within the industry. She is a member of the Australian Traditional Medicine Society (ATMS) and is a registered practitioner with all major health funds. Joan is also a member of the Australian Natural Therapists Association (ANTA) and the Australian Society of Clinical Hypnotherapists (ASCH).</p>
+## BeHealthy with Joan Goldsmith assits you in developing a healthy body to fight disease, rather than just treat the symptoms of disease. ##
+
+Joan Goldsmith has more than 30 years’ experience as a naturopath and is very highly regarded within the industry.
+
+She is a member of the <a hrefAustralian Traditional Medicine Society (ATMS) and is a registered practitioner with all major health funds. 
+https://www.atms.com.au/
+
+Joan is also a member of the Australian Natural Therapists Association(https://www.example.com) (ANTA) and the Australian Society of Clinical Hypnotherapists (ASCH).
+
+[Australian Natural Therapists Association](https://www.atms.com.au/)
     
-<h2>BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location.</h2>
+### BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location. ###
 
 
 

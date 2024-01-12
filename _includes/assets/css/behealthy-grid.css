@@ -866,8 +866,8 @@ ul.footer-menu li {
     padding: 0.5rem;
   }
 }
-.ctaicons img {float:left; padding:0;background-color: var(--white);}
-.ctaicons:hover img {float:left; padding:0;background-color: var(--white);}
+.menusocial img {float:left; padding:0;background-color: var(--white);}
+.menusocial:hover img {float:left; padding:0;background-color: var(--white);}
 
 
 .menusocial > li {
@@ -912,20 +912,13 @@ margin:10px 0;
   transition: all 0.3s;
 }
 
-
-
-
-
-
-
-
-.ctawrapper .ctaicons > li {  width: 250px;font-weight: 700;}
-.ctawrapper .ctaicons > li > a {
+.ctawrapper .menusocial > li {  width: 250px;font-weight: 700;}
+.ctawrapper .menusocial > li > a {
 background-color: var(--black);
 margin:0;
 font-weight: 700;
 display: block;}
-.ctawrapper .ctaicons > li > a:hover{
+.ctawrapper .menusocial > li > a:hover{
   color: var(--white);
   background-color: var(--primary);
   border-bottom: none;
@@ -964,21 +957,30 @@ margin:5px 0;
 
 
 
-
-  .ctawrapper .ctaicons .phonetext,  .menusocial .phonetext {float: right;text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
+.menusocial .phonetext {float: right;font-size:1rem;line-height: 34px;font-weight:400;text-align:right;color: var(--white);display: flex;justify-content: center;-webkit-transition: all 0.6s;padding-right:0.5rem;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  transition: all 0.6s;}
+.menusocial:hover .phonetext {font-size:1rem;line-height: 34px;font-weight:400;text-align:right;color: var(--black);display: flex;justify-content: center;-webkit-transition: all 0.6s;
+  -moz-transition: all 0.6s;
+  -ms-transition: all 0.6s;
+  -o-transition: all 0.6s;
+  transition: all 0.6s;}
+  .ctawrapper .menusocial .phonetext  {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
     -webkit-transition: all 0.6s;
     -moz-transition: all 0.6s;
     -ms-transition: all 0.6s;
     -o-transition: all 0.6s;
     transition: all 0.6s;}
 
-  .ctawrapper .ctaicons .phonetext a {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
+  .ctawrapper .menusocial .phonetext a {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
     -webkit-transition: all 0.6s;
     -moz-transition: all 0.6s;
     -ms-transition: all 0.6s;
     -o-transition: all 0.6s;
     transition: all 0.6s;}
-    .ctawrapper .ctaicons:hover .phonetext {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;
+    .ctawrapper .menusocial:hover .phonetext {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;
       -webkit-transition: all 0.6s;
       -moz-transition: all 0.6s;
       -ms-transition: all 0.6s;
@@ -992,24 +994,12 @@ float: left;
 margin: 0 10px;
 }
 
-.ctawrapper {background-color: transparent;min-height:54px;padding:0;margin:0;}
-.ctawrapper ul {
-  margin: 0;
-  padding: 0;
-
-  list-style-type: none;
-
-  }
-.ctawrapper ul.ctaicons li  {
+.ctawrapper ul.menusocial li  {
   float: left;
   margin: 0;
   }
 
-.ctawrapper ul li a {
-  text-decoration: none;
-  display:block;
-
-  }
+.ctawrapper {background-color: transparent;min-height:54px;padding:0;margin:0;}
 
 
 

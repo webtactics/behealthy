@@ -17,12 +17,10 @@ eleventyNavigation:
 
 Joan Goldsmith has more than 30 years’ experience as a naturopath and is very highly regarded within the industry.
 
-She is a member of the <a hrefAustralian Traditional Medicine Society (ATMS) and is a registered practitioner with all major health funds. 
-https://www.atms.com.au/
+She is a member of the <a href="https://www.atms.com.au/" title="Australian Traditional Medicine Society">Australian Traditional Medicine Society</a> (ATMS) and is a registered practitioner with all major health funds. 
 
-Joan is also a member of the Australian Natural Therapists Association(https://www.example.com) (ANTA) and the Australian Society of Clinical Hypnotherapists (ASCH).
+Joan is also a member of the <a href="https://www.australiannaturaltherapistsassociation.com.au/" title="Australian Natural Therapists Association">Australian Natural Therapists Association</a> (ANTA).
 
-[Australian Natural Therapists Association](https://www.atms.com.au/)
     
 ### BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location. ###
 

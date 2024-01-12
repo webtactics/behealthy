@@ -967,20 +967,20 @@ margin:5px 0;
   -ms-transition: all 0.6s;
   -o-transition: all 0.6s;
   transition: all 0.6s;}
-  .ctawrapper .menusocial .phonetext  {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
+  .cta .menusocial .phonetext  {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
     -webkit-transition: all 0.6s;
     -moz-transition: all 0.6s;
     -ms-transition: all 0.6s;
     -o-transition: all 0.6s;
     transition: all 0.6s;}
 
-  .ctawrapper .menusocial .phonetext a {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
+  .cta .menusocial .phonetext a {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;padding-right:0.5rem;
     -webkit-transition: all 0.6s;
     -moz-transition: all 0.6s;
     -ms-transition: all 0.6s;
     -o-transition: all 0.6s;
     transition: all 0.6s;}
-    .ctawrapper .menusocial:hover .phonetext {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;
+    .cta .menusocial:hover .phonetext {text-align: left;font-size:1rem;line-height: 34px;font-weight:700;color: var(--white);display: flex;justify-content: center;
       -webkit-transition: all 0.6s;
       -moz-transition: all 0.6s;
       -ms-transition: all 0.6s;

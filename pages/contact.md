@@ -2,11 +2,11 @@
 layout: layouts/default.njk
 title: Contact BeHealthy with Joan Goldsmith
 class: contact
-description: How to contact James Taylor Bathurst Solictor
+description: How to contact BeHealthy with Joan Goldsmith
 section: contact
 date: 2023-07-20
 metadata:
-  title: Criminal and Family Law Lawyer Bathurst NSW
+  title: How to contact BeHealthy with Joan Goldsmith
 permalink: /contact/
 eleventyNavigation:
   key: Contact

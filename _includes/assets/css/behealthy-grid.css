@@ -842,7 +842,11 @@ ul.footer-menu li {
     justify-content: center;
     align-items: center;
   }
-
+  .footer-menu>li>a {
+    padding: 0 1rem;
+    height: auto;
+    line-height: 36px;
+}
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}
 .menusocial:hover img {float:left; padding:0;background-color: var(--white);}

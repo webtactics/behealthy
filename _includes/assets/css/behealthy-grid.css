@@ -845,7 +845,7 @@ ul.footer-menu li {
   .footer-menu>li>a {
     padding: 0 1rem;
     height: auto;
-    line-height: 36px;
+    line-height: auto;
 }
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}

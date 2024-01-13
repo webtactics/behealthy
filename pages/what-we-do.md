@@ -9,7 +9,7 @@ permalink: /what-we-do/
 metadata:
   title: Naturopath Joan Goldsmith and BeHealthy place an emphasis on a preventative approach to healing and treating the cause and causes of a disease state.
 eleventyNavigation:
-  key: What-we-Do
+  key: What we do
   order: 3
 ---
 

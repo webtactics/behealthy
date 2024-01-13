@@ -836,7 +836,7 @@ ul.footer-menu li {
 
 
 @media (max-width: 768px) {
-  .footer-menu {
+  ul.footer-menu {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

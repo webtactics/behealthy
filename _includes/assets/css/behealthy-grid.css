@@ -859,7 +859,7 @@ ul.footer-menu li {
     border: none;
     position: relative;
     right: 0;
-    width: auto;
+    width: 100%;
     text-align: right;
 }
 

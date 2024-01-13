@@ -4,7 +4,7 @@ title: About BeHealthy with Joan Goldsmith
 description: BeHealthy assits you to developing a healthy body, to fight disease, rather than just treat symptoms of disease.
 section: about
 class: about
-date: 2023-07-20
+date: 2024-01-13
 permalink: /about/
 metadata:
   title: BeHealthy assits you to developing a healthy body, to fight disease, rather than just treat symptoms of disease.
@@ -15,32 +15,24 @@ eleventyNavigation:
 
 
 
-## Joan Goldsmith has more than 30 years experice as a a naturopath for more than 30 years and has a wealth of experience, yet she certainly doesn't rest on her laurels. ## 
+## Joan Goldsmith, a seasoned naturopath with over three decades of experience, is widely recognised as a leading practitioner in her field. ## 
 
-Joan Goldsmith has more than 30 years’ experience as a naturopath and is regarded as a leading practitioner 
+Despite her wealth of expertise, she remains proactive in staying abreast of the latest research and advancements.
 
 <figure class="imageright imgjoan"><img title="{{ title }}" src="/joan-goldsmith.jpg" alt="{{ title }}" width="207px" height="156px">
 <figcaption>Joan Goldsmith</figcaption>
 </figure>
 
 
+Under the banner of BeHealthy with Joan Goldsmith, she continually enhances her knowledge through annual attendance at supplementary classes. This commitment not only ensures she remains current with the latest developments but also enables her to provide her patients with the most informed advice and skills available.
 
-Each year Joan attends extra classes, making sure that she is not only up-to-date with the latest research but so that she can offer her patients the best possible advice and skills.
+Unlike many, Joan has consistently pursued educational opportunities with Health World for the past two decades. Health World is at the forefront of natural field research, setting the standard for keeping practitioners well-informed.
 
-Does your naturopath do this?
+This dedication to ongoing education instils confidence in Joan's ability to deliver results swiftly. Moreover, she advocates for the integration of the latest equipment to enhance treatment efficacy. The synergy of her extensive knowledge and cutting-edge tools enables Joan to achieve results in a significantly shorter timeframe than previously possible.
 
-Joan has attended classes for the past 20 years with Health World, because they lead the world in natural field research and keeping the practitioner informed.
+Throughout her career, Joan has witnessed shifts in attitudes and health challenges. Her unwavering belief in building health through detoxification remains a constant. This conviction has been reinforced by the increasing prevalence of liver stress among individuals.
 
-This quest to stay educated means that you can be confident in her ability to get results. Quickly.
+In a notable transition, Joan has recently moved from Mooloolaba to operate as an online-only business. Despite this shift, she continues to bring her accumulated expertise and the latest advancements in the field to address immune system problems—a widespread issue affecting many individuals.
 
-Joan is also an advocate of using the latest equipment to assist in any treatment.
-
-This combination of knowledge and equipment means that Joan can now achieve results in a much shorter time frame than was previously possible.
-
-Over her career Joan has seen many changes in attitudes and health issues, however her overriding belief to build health via detoxing.
-
-This belief has only been re-enforced with so many people now suffering liver stress.
-
-Joan can now also improve immune system problems that have become a major problem for many people.
 
 

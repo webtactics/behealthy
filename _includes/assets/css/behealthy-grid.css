@@ -836,7 +836,16 @@ ul.footer-menu li {
 
 
 @media (max-width: 768px) {
-
+  .footer-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer-menu li a {
+    display: block;
+    padding: 15px 5px;
+  }
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}
 .menusocial:hover img {float:left; padding:0;background-color: var(--white);}

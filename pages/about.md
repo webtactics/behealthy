@@ -15,7 +15,7 @@ eleventyNavigation:
 
 
 
-## Joan Goldsmith, a seasoned naturopath with over three decades of experience, is widely recognised as a leading practitioner in her field. ## 
+## Joan Goldsmith, a seasoned naturopath with more than three decades of experience, is widely recognised as a leading practitioner in her field. ## 
 
 Despite her wealth of expertise, she remains proactive in staying abreast of the latest research and advancements.
 

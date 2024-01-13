@@ -1,13 +1,13 @@
 ---
 layout: layouts/default.njk
 title: What we do to make you BeHealthy
-description: Naturopath Joan Goldsmith and BeHealthy place an emphasis on a preventative approach to healing and treating the cause and causes of a disease state.
+description: Naturopath Joan Goldsmith and BeHealthy take a preventative approach to healing and treating the cause and causes of a disease state.
 section: what-we-do
 class: what-we-do
 date: 2024-01-13
 permalink: /what-we-do/
 metadata:
-  title: Naturopath Joan Goldsmith and BeHealthy place an emphasis on a preventative approach to healing and treating the cause and causes of a disease state.
+  title: Naturopath Joan Goldsmith and BeHealthy take a preventative approach to healing and treating the cause and causes of a disease state.
 eleventyNavigation:
   key: What we do
   order: 3
@@ -15,7 +15,7 @@ eleventyNavigation:
 
 
 
-## Naturopath Joan Goldsmith and BeHealthy place an emphasis on a preventative approach to healing and treating the cause and causes of a disease state. ## 
+## Naturopath Joan Goldsmith and BeHealthy take a preventative approach to healing and treating the cause and causes of a disease state. ## 
 
 
 This approach is in contrast to the modern medical approach of simply naming and treating the symptoms by prescribing drugs or performing surgery.

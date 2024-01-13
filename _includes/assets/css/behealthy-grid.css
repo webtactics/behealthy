@@ -790,7 +790,7 @@ padding: 0;
 ul.footer-menu li {
   list-style: none;
   display: inline-block;
-  padding: 0 20px;
+  padding: 0 1rem;
 }
 
 .footer-menu > li > a {

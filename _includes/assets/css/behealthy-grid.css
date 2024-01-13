@@ -809,7 +809,7 @@ ul.footer-menu li {
   color: var(--primary);
   background-color: transparent;
   border:none;
-  width: 20%;
+  width: 100%;
   display: block;
  
 }
@@ -834,7 +834,7 @@ ul.footer-menu li {
   color: var(--white);
   background-color: var(--primary);
   border:none;
-  width: 20%;
+  width: 100%;
 }
 
 

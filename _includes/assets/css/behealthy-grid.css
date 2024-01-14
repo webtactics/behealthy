@@ -858,7 +858,7 @@ ul.footer-menu li {
   height: auto;
   border-bottom:1px solid var(--lightgrey);
 }
-.footer-menu > li > a:last-child {
+.footer-menu > li:last-child  > a{
   padding: 0 1rem;
   height: auto;
   border-bottom:1px solid transparent;

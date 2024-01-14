@@ -856,7 +856,7 @@ ul.footer-menu li {
 .footer-menu > li > a {
   padding: 0 1rem;
   height: auto;
-  border-bottom:1px solid var(--mattblack);
+  border-bottom:1px solid var(--lightgrey);
 }
 .footer-menu > li > a:last-child {
   padding: 0 1rem;

@@ -851,10 +851,11 @@ ul.footer-menu li {
     justify-content: center;
     align-items: center;
   }
-  .footer-menu>li>a {
+  .footer-menu > li > a {
     padding: 0 1rem;
     height: auto;
-
+    border-top:1px solid var(--lightgrey);
+    border-bottom:1px solid var(--lightgrey);
 }
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}

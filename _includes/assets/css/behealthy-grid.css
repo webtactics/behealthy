@@ -837,7 +837,7 @@ ul.footer-menu li {
 
 @media (max-width: 768px) {
 
-.footernavwrapper { height: auto;}
+
   ul.footer-menu {
     display: grid;
     grid-template-columns: 1fr;
@@ -1088,7 +1088,7 @@ background-color: var(--primary); font-weight: bold;}
 
   
       .footernavwrapper {
-        background-color: var(--black);height:36px;border-bottom: 1px solid var(--lightgrey);
+        background-color: var(--black);border-bottom: 1px solid var(--lightgrey);
       }
         .footernav {
         margin: 0 auto;

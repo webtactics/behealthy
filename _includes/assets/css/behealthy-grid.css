@@ -1074,7 +1074,7 @@ background-color: var(--primary); font-weight: bold;}
 .hero {background-attachment: fixed;background-color: var(--green);background-position: center top;background-repeat: no-repeat;}
 
 .hero {height: 60vh;height: 60svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-size: cover;}
-.home .hero{height: 100vh;height: 100svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg); background-size: auto;}
+.home .hero{height: 100vh;height: 100svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg); background-position: center top;background-repeat: no-repeat;background-size: cover;}
 
 
 

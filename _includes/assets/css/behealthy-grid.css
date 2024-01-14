@@ -836,6 +836,8 @@ ul.footer-menu li {
 
 
 @media (max-width: 768px) {
+
+.footernavwrapper {    height: auto;}
   ul.footer-menu {
     display: grid;
     grid-template-columns: 1fr;

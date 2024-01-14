@@ -1127,7 +1127,7 @@ text-align: center;
 }
 
 .footerwrap p a {
-  color: var(--primary);
+  color: var(--black);
   background: var(--white);
   border: none;
   padding: 0 0.25rem;

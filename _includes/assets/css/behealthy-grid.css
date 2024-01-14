@@ -851,11 +851,17 @@ ul.footer-menu li {
     justify-content: center;
     align-items: center;
   }
-  .footer-menu > li > a {
-    padding: 0 1rem;
-    height: auto;
-    border-top:1px solid var(--lightgrey);
-    border-bottom:1px solid var(--lightgrey);
+
+
+.footer-menu > li > a {
+  padding: 0 1rem;
+  height: auto;
+  border-bottom:1px solid var(--mattblack);
+}
+.footer-menu > li > a:last-child {
+  padding: 0 1rem;
+  height: auto;
+  border-bottom:1px solid transparent;
 }
 }
 .menusocial img {float:left; padding:0;background-color: var(--white);}

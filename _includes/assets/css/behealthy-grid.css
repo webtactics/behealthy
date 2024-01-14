@@ -1076,18 +1076,16 @@ background-color: var(--primary); font-weight: bold;}
 .hero {height: 60vh;height: 60svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg);   background-repeat: repeat;background-size: cover;}
 .home .hero{height: 100vh;height: 100svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg); background-size: auto;}
 
-@media (min-width: 1600px) {
-.home .hero{height: 100vh;height: 100svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg);background-size: cover;}
-}
+
 
 @media (max-width: 1280px) {
-.home .hero  {height: 60vh;height: 60svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg); background-size:auto;}
+.home .hero  {height: 60vh;height: 60svh;background: url(https://ik.imagekit.io/webtactics/behealthy/tr:w-1280/img/behealthy-hero-1400x875.jpg); background-size:auto;}
 }
 
 @media (max-width: 600px) {
-.home .hero  {height: 60vh;height: 60svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg);background-size: cover;}
+.home .hero  {height: 60vh;height: 60svh;background: url(https://ik.imagekit.io/webtactics/behealthy/tr:w-600/img/behealthy-hero-1400x875.jpg);background-size: cover;}
 
-.hero {height: 30vh;height: 30svh;background: url(https://ik.imagekit.io/webtactics/behealthy/img/behealthy-hero-1400x875.jpg);background-position: center top;}
+.hero {height: 30vh;height: 30svh;background: url(https://ik.imagekit.io/webtactics/behealthy/tr:w-600/img/behealthy-hero-1400x875.jpg);background-position: center top;}
 }
 
 

@@ -15,17 +15,7 @@ eleventyNavigation:
 
 ## BeHealthy with Joan Goldsmith assits you in developing a healthy body to fight disease, rather than just treat the symptoms of disease. ##
 
-Joan Goldsmith has more than 30 years’ experience as a naturopath and is very highly regarded within the industry.
-
-She is a member of the <a href="https://www.australiannaturaltherapistsassociation.com.au/" title="Australian Natural Therapists Association">Australian Natural Therapists Association</a> (ANTA) and is a registered practitioner with all major health funds. 
+Joan Goldsmith has more than 30 years’ experience as a naturopath and is very highly regarded within the industry and is a registered practitioner with all major health funds. 
 
     
 ### BeHealthy with Joan Goldsmith is an online only business. We do not have an accessible physical location. ###
-
-
-
-
-
-
-
-
